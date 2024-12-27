@@ -1,6 +1,6 @@
 🚀 About Me
 
-Hello there! 👋 I'm Wijdane Marzougui, a dynamic and passionate 4th-year engineering student specializing in Big Data / AI at UIA.
+Hello there! 👋 I'm Wijdane Marzougui, a dynamic and passionate final year engineering student specializing in Big Data / AI at UIA.
 With a solid background in full-stack development and data analysis, I'm driven by a deep interest in technological innovation and the creation of smart solutions.
 
 🎓 Education
